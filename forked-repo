@@ -1,0 +1,5 @@
+curl https://api.github.com/repos/sumanverma2610/mcino-Introduction-to-Git-and-GitHub
+
+Repository fork information:
+fork: true
+parent: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
