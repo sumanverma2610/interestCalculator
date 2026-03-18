@@ -1,7 +1,7 @@
 # interestCalculator
 # Simple Interest Calculator
 
-This project calculates Simple Interest using a basic formula.
+This project calculates simple interest.
 
 ## Formula
 SI = (P × R × T) / 100
